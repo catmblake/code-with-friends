@@ -5,6 +5,7 @@ A web app connecting new and aspiring full-stack developers in skills learning a
 
 A user creates an account and answers some basic profile questions to determine their skill level and time available to work on coding projects. The user is then provided with recommended connections based on their answers to these questions. By connecting with other members of Code With Friends the user can grow their network and engage in exciting projects.
 
+![Desktop View](https://github.com/catmblake/Project2/blob/master/public/images/codewfriends.png)
 ### Technologies Used
 #### Front End
 * HTML, CSS & UI Kit for a fully responsive UI design.
