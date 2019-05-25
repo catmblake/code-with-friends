@@ -19,7 +19,7 @@ A user creates an account and answers some basic profile questions to determine 
 * Sequelize ORM for database queries
 
 ### Try It Out
-Code with Friends is deployed on Heroku. Explore the communuity [here](https://coding-with-friends.herokuapp.com/). Login using the following guest account: 
-**Email**: guest@codewithfriends.com **Password**:Password1
+Code with Friends is deployed on Heroku. Explore the communuity [here](https://friendscoding.herokuapp.com/). Login using the following guest account: 
+**Email**: guest@friendscoding.com **Password**:Password1
 
 
